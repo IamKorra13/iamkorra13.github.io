@@ -1,0 +1,42 @@
+body {
+  padding-top: 50px;
+}
+.brush-content {
+  padding: 40px 15px;
+  text-align: left;
+}
+.navbar {
+	background-color: #EB5757;
+	border-bottom-color: #EB5757;
+}
+.navbar-inverse .navbar-nav > li > a { /* Contact */
+  color : #dbdbdb;
+  background-color: #EB5757;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus { /*Feature*/
+  color: #fff;
+  background-color: #f97878;
+}
+
+.navbar-inverse .navbar-brand { /*Brush*/
+	background-color: #EB5757;
+	color: #dbdbdb;
+}
+
+h2, .features {
+	border-bottom-color: #f97878!important; 
+	border-radius: 18px;
+	padding-top: 50px;
+}
+.feature-contents {
+	padding-left: 25px;
+}
+h4 {
+	padding-left: 10px;
+}
+p {
+	padding-bottom: 10px;
+}
+

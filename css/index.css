@@ -1,0 +1,55 @@
+.bg-lavendar {
+	background-color: #E2DEEF;
+}
+
+.bg-pink {
+	background-color: #FDDDDD;
+}
+
+.bg-mint {
+	background-color: #AAF1D1;
+}
+
+.center {
+	text-align: center;
+}
+
+  body {
+      /*font: 20px Montserrat, sans-serif;*/
+      line-height: 1.8;
+  }
+  p {
+  	font-size: 16px;
+
+  }
+  .margin {
+  	margin-bottom: 45px;
+  }
+  .bg-1 { 
+      background-color: #AAF1D1;
+      /*color: #ffffff;*/
+  }
+  .bg-2 { 
+      background-color: #FDDDDD;
+      /*padding: 30;*/
+      color: #777
+
+
+
+  }
+  .container-fluid {
+      padding-top: 40px;
+      padding-bottom: 40px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 14px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
